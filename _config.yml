@@ -1,8 +1,4 @@
-plugins: []
-markdown: kramdown
-theme: null
-sass:
-  style: compressed
 exclude:
   - "*.scss"
   - "*.sass"
+
